@@ -1,4 +1,6 @@
-# phaser3-typescript-vite-template
+# Constellation game
+
+[Source repo](https://github.com/twopmstudios/phaser3-typescript-vite-template)
 
 > Generated via `npm init @vitejs/app`.
 
@@ -8,7 +10,7 @@ Why? Insanely fast developer experience on startup & live reload.
 
 ## Available Scripts
 
-### npm run dev
+### npm start
 
 Runs the app in the development mode.
 Open http://localhost:3000 to view it in the browser.
